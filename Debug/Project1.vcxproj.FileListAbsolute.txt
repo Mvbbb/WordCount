@@ -1,0 +1,2 @@
+C:\Users\yuzhihai\source\repos\Project1\Debug\WordCountTest.exe
+C:\Users\yuzhihai\source\repos\Project1\Debug\WordCountTest.pdb
